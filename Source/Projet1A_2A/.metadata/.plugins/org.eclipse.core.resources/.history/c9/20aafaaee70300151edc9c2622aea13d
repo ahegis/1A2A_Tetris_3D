@@ -1,0 +1,8 @@
+import java.util.LinkedList;
+
+
+public class Plateau {
+	private LinkedList ordonnee;
+	
+	private LinkedList<Piece> plateau[][][]=new LinkedList[1][1][1];
+}

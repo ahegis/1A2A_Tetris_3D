@@ -1,0 +1,24 @@
+-Déplacer une pièce
+-Rotation de piece
+-Naviguer dans un menu (choisir un type de partie ....)
+-Lancer une nouvelle partie
+-Connaitre la pochaine piece
+-faire tourner le plateau/la caméra
+
+-faire tomber une piece dans le plateau
+-effacer une ligne du plateau lorsqu'elle est pleine
+-augmenter la vitesse des pièces au fur et a mesure des niveaux
+
+
+-Capable de se servir de l'application sur smartphone
+-Sauvegarder la partie
+-Charger une partie
+-
+
+
+
+
+
+
+
+
